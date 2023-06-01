@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Todo x 2 criptos!](https://todox2cripto-frontend.onrender.com/)
 
-- 🌱 I’m currently learning **Typescripts, React Native!**
+- 🌱 I’m currently learning **C#, NET Core 7!**
 
 - 📫 How to reach me **juancruzperez933@gmail.com**
 
