@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanchosss1" alt="juanchosss1" /></a> </p>
 
-- 🔭 I’m currently working on [Todo x 2 criptos!](https://todox2cripto-frontend.onrender.com/)
-
-- 🌱 I’m currently learning **C#, NET Core 7!**
-
 - 📫 How to reach me **juancruzperez933@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/juan-cruz-perez-fullstack-dev/](https://www.linkedin.com/in/juan-cruz-perez-fullstack-dev/)
